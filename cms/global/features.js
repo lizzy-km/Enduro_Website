@@ -59,18 +59,18 @@
 			icon: 'magnet',
 			title: 'Shared templates',
 			$text_type: 'textarea',
-			text: 'Html components written for backend are accessible to frontend\'s javascript as well. Amazing.',
+			text: 'Html components written for backend are accessible to frontend\'s JavaScript as well. Amazing.',
 			$linkified_text_hidden: true,
-			linkified_text: 'Html components written for backend are accessible to frontend\'s javascript as well. Amazing.'
+			linkified_text: 'Html components written for backend are accessible to frontend\'s JavaScript as well. Amazing.'
 		},
 		{
 			$icon_type: 'fa',
 			icon: 'bolt',
-			title: 'Isomorphic javascript',
+			title: 'Isomorphic JavaScript',
 			$text_type: 'textarea',
-			text: 'Using javascript for both frontend and backend is just a great idea. With enduro.js, all your javascript modules can now be loaded by page generation, api and frontend code.',
+			text: 'Using JavaScript for both frontend and backend is just a great idea. With enduro.js, all your JavaScript modules can now be loaded by page generation, api and frontend code.',
 			$linkified_text_hidden: true,
-			linkified_text: 'Using javascript for both frontend and backend is just a great idea. With enduro.js, all your javascript modules can now be loaded by page generation, api and frontend code.'
+			linkified_text: 'Using JavaScript for both frontend and backend is just a great idea. With enduro.js, all your JavaScript modules can now be loaded by page generation, api and frontend code.'
 		},
 		{
 			$icon_type: 'fa',
